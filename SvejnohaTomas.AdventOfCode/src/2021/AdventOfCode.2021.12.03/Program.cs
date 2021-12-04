@@ -112,7 +112,7 @@ using (var sr = new StreamReader("./input.txt"))
 
 Console.WriteLine($"" +
     $"Author: Tomas Svejnoha\n" +
-    $"Date: 2021-12-02\n\n" +
+    $"Date: 2021-12-03\n\n" +
     $"Part 1:\n" +
     $"Power consumption of the submarine: {gammaRate * epsilonRate}\n\n" +
     $"Part 2:\n" +
